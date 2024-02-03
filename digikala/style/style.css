@@ -1,0 +1,201 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.card{
+    width: 1255px;
+    height: 350px;
+    background-color: rgba(255, 0, 0, 0.76);
+    position: absolute;
+    transform: translate(40px,120px);
+    border-radius: 20px;
+}
+.card--images{
+    width: 130px;
+    height: 130px;
+    position: absolute;
+    transform: translate(1090px,145px);
+}
+.card--title{
+    position: absolute;
+    transform: translate(1155px,410px);
+    color: white;
+    font-size: 22px;
+}
+.card-1--title{
+    position: absolute;
+    transform: translate(1175px,160px);
+    color: white;
+    font-size: 27px;
+}
+.card-1{
+    width: 200px;
+    height: 300px;
+    position: absolute;
+    transform: translate(895px,140px);
+    background-color: white;
+}
+.card-1--images{
+    width: 180px;
+    height: 185px;
+    position: absolute;
+    transform: translate(905px,160px);
+}
+.span{
+    position: absolute;
+    transform: translate(938px,380px);
+    font-size: 22px;
+}
+.card--description{
+    position: absolute;
+    transform: translate(905px,383px);
+}
+.button{
+    width: 50px;
+    height: 25px;
+    background-color: red;
+    border-radius: 20px;
+    position: absolute;
+    transform: translate(1030px,360px);
+}
+.p{
+    color: white;
+}
+.card-2--images{
+    position: absolute;
+    transform: translate(1165px,70px);
+}
+.card-2{
+    width: 200px;
+    height: 300px;
+    background-color: white;
+    position: absolute;
+    transform: translate(690px,140px);
+}
+.card-3--images{
+    width: 180px;
+    height: 185px;
+    position: absolute;
+    transform: translate(705px,160px);
+}
+.span-1{
+    position: absolute;
+    transform: translate(735px,380px);
+    font-size: 22px;
+}
+.card-1--description{
+    position: absolute;
+    transform: translate(702px,383px);
+}
+.button-1{
+    width: 50px;
+    height: 25px;
+    background-color: red;
+    border-radius: 20px;
+    position: absolute;
+    transform: translate(823px,360px);
+}
+.p-1{
+    color: white;
+}
+.card-3{
+    width: 200px;
+    height: 300px;
+    background-color: white;
+    position: absolute;
+    transform: translate(485px,140px);
+}
+.card-4--images{
+    width: 180px;
+    height: 185px;
+    position: absolute;
+    transform: translate(495px,160px);
+}
+.span-2{
+    position: absolute;
+    transform: translate(525px,380px);
+    font-size: 22px;
+}
+.card-2--description{
+    position: absolute;
+    transform: translate(492px,383px);
+}
+.button-2{
+    width: 50px;
+    height: 25px;
+    background-color: red;
+    border-radius: 20px;
+    position: absolute;
+    transform: translate(618px,360px)
+}
+.p-2{
+    color: white;
+}
+.card-4{
+    width: 200px;
+    height: 300px;
+    background-color: white;
+    position: absolute;
+    transform: translate(280px,140px);
+}
+.card-5--images{
+    width: 180px;
+    height: 185px;
+    position: absolute;
+    transform: translate(292px,155px);
+}
+.span-3{
+    position: absolute;
+    transform: translate(322px,380px);
+    font-size: 22px;
+}
+.card-3--description{
+    position: absolute;
+    transform: translate(288px,383px);
+}
+.button-3{
+    width: 50px;
+    height: 25px;
+    background-color: red;
+    border-radius: 20px;
+    position: absolute;
+    transform: translate(410px,360px);
+}
+.p-3{
+    color: white;
+}
+.card-5{
+    width: 215px;
+    height: 300px;
+    background-color: black;
+    position: absolute;
+    transform: translate(60px,140px);
+    background-color: white;
+}
+.card-6--images{
+    width: 180px;
+    height: 185px;
+    position: absolute;
+    transform: translate(80px,160px);
+}
+.span-4{
+    position: absolute;
+    transform: translate(100px,380px);
+    font-size: 22px;
+}
+.card-4--description{
+    position: absolute;
+    transform: translate(68px,383px);
+}
+.button-4{
+    width: 50px;
+    height: 25px;
+    background-color: red;
+    border-radius: 20px;
+    position: absolute;
+    transform: translate(210px,360px);
+}
+.p-4{
+    color: white;
+}
